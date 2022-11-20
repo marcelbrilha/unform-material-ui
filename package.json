@@ -34,17 +34,17 @@
     "@material-ui/icons": "^4.9.1",
     "@unform/core": "^2.0.0",
     "@unform/web": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.3",
     "lodash": "^4.17.15",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-dropzone": "^10.2.2",
     "react-input-mask": "^2.0.4",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.0",
     "react-select": "^3.1.0",
     "react-text-mask": "^5.4.3",
     "text-mask-addons": "^3.8.0",
-    "yup": "^0.28.1"
+    "yup": "^0.30.0"
   },
   "browserslist": {
     "production": [
